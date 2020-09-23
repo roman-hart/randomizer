@@ -23,7 +23,7 @@ Program contains 10 methods:
 
 # Usage
 
-Compile the program and run `main.exe` file. Then input a number to specify a method. 
-Program output example is shown in `result.txt`.
+Compile the program and run `main.exe` file. Then input a number to specify a method. <br>
+Program output example is shown in `result.txt`. <br>
 You may change variables if you want: `main.cpp` file contains general settings, variables in `random.cpp` are responsible for pseusorandom algorithms.
 
