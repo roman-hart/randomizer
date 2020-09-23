@@ -1,0 +1,26 @@
+Here are all available methods to generate a sequence:                                                                                                                                      
+        1 -> Linear                                                                                                                                                                         
+        2 -> Square 
+        3 -> Fibbo                                                                                                                                                                          
+        4 -> Inverse                                                                                                                                                                        
+        5 -> United                                                                                                                                                                         
+        6 -> 3-sigma                                                                                                                                                                        
+        7 -> Polar coordinates                                                                                                                                                              
+        8 -> Fraction                                                                                                                                                                       
+        9 -> Logarithm                                                                                                                                                                      
+        10 -> Arens'                                                                                                                                                                        
+Choose a method:1
+                                                                                                                                                                               
+Linear method                                                                                                                                                                               
+First 10 numbers: 0.811881, 0.049805, 0.047805, 0.005801, 0.123812, 0.601860, 0.639864, 0.437844, 0.195820, 0.113811,  ...                                                                  
+[0.0, 0.1):   10.0 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                                                                                           
+[0.1, 0.2):   10.0 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                                                                                           
+[0.2, 0.3):   10.0 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                                                                                           
+[0.3, 0.4):   10.0 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                                                                                           
+[0.4, 0.5):   10.0 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                                                                                           
+[0.5, 0.6):   10.0 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[0.5, 0.6):   10.0 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                                                                                           
+[0.6, 0.7):   10.0 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                                                                                           
+[0.7, 0.8):   10.0 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                                                                                           
+[0.8, 0.9):   10.0 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                                                                                           
+[0.9, 1.0):   10.0 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
